@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aurora(e)
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html5 css3javascript
+- 🌱 I’m currently learning html5 css3 javascript
 - 💞️ I’m looking for an intership 
 - 📫 How to reach me aurobk@mailfence.com
 

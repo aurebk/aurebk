@@ -230,7 +230,7 @@ background-color: #ffe1ff;
   /*photo of about hover photo change with vw*/
   #photo-about{
     width: 48vw;
-    height: 28vw;
+    height: 32vw;
     border-radius:5%;
     -webkit-box-shadow: 6vw 6vw 8vw;
             box-shadow: 6vw 6vw 8vw;
@@ -539,6 +539,19 @@ background-color: #ffe1ff;
 #content10{
     height: 40vw;
 }
+#content8,
+#content10{
+    text-align: center;
+  }
+  #content7,
+  #content9{
+   
+    position: relative;
+    margin-left:12%;
+  }
+  #content3{
+    
+  }
 #content4{
     height:50vw;
 }  
@@ -569,6 +582,10 @@ background-color: #ffe1ff;
   #content9, 
   #content10{
     height: 45vw;
+  }
+  #content8,
+  #content10{
+    text-align: center;
   }
   #content4{
     height:60vw;

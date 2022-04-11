@@ -1,6 +1,6 @@
 body{  
   background:rgb(84, 0, 126);
-  font-family: 'hummer miller', sans-serif;
+  
  }
 #content{
   display: grid;
@@ -213,8 +213,10 @@ background-color: #ffe1ff;
     font-weight: 800;
   text-transform: uppercase;
   text-align: center;
-    text-shadow: 0px 0px 5px x#FF00FF, 0px 0px 7px x#FF00FF;
-  }
+    text-shadow: 0px 0px 5px white, 0px 0px 7px white;
+    font-family: cursive,sans-serif;
+}
+
   /*text About*/
   .about-text{
     width: 50%;
@@ -285,6 +287,7 @@ background-color: #ffe1ff;
     font-size: 2vw;
     font-weight: 300;  
     color: #FF00FF;
+    font-family: 'Dancing Script', cursive;
   } 
   /*content project with photos*/
   .portfolio-item{

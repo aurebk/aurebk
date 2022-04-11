@@ -1,6 +1,5 @@
 body{  
-  background:rgb(84, 0, 126);
-  
+  background-color : rgb(111, 10, 174);
  }
 #content{
   display: grid;

@@ -463,13 +463,12 @@ background-color: rgb(238, 238, 238);
   #changeColor{
     background-color:#f0c2f0;
   }
-  .contact{
-    margin-top:-10%;
-    background-color: #221e3f;
-  }
+ 
   form{
+    background-color: #221e3f;
     width:70%;
     margin:0 auto;
+    padding:10%;
   }
   form label{
     color: blueviolet;
